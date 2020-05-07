@@ -20,8 +20,10 @@
 * แสดงยอดเงินรวมและจำนวนเหรียญแต่ละชนิดผ่านจอ LCD
 
 ## รูปภาพโครงงานเบื้องต้น
-
-## working
+[![1.jpg](https://i.postimg.cc/tT89h4CL/1.jpg)](https://postimg.cc/gXq9pdhD)
+[![2.jpg](https://i.postimg.cc/qMsp30f5/2.jpg)](https://postimg.cc/xc1www1v)
+[![3.jpg](https://i.postimg.cc/xd4Q21Hc/3.jpg)](https://postimg.cc/1gw20PvQ)
+## รูปภาพขณะทำงาน
 [![S-73744476.jpg](https://i.postimg.cc/SsgyjfwN/S-73744476.jpg)](https://postimg.cc/YGmcsYrJ)
 [![S-73744483.jpg](https://i.postimg.cc/8k3S3cG3/S-73744483.jpg)](https://postimg.cc/XXwmBVpc)
 [![S-73744477.jpg](https://i.postimg.cc/nLkxw1VY/S-73744477.jpg)](https://postimg.cc/8Fjx7M6j)
