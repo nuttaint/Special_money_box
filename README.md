@@ -21,4 +21,7 @@
 
 ## รูปภาพโครงงานเบื้องต้น
 
+## working
+[![S-73744476.jpg](https://i.postimg.cc/SsgyjfwN/S-73744476.jpg)](https://postimg.cc/YGmcsYrJ)
+
 ## ผู้จัดทำ
